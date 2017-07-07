@@ -1,0 +1,3 @@
+A 100 Snacks n B C E G 
+B 500 Taxi C L 
+F 300 Bus A B
